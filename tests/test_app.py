@@ -1,5 +1,5 @@
 import pytest
-from simple-python-app import app  # adjust import based on your app structure
+from simple_python_app import app  # adjust import based on your app structure
 
 @pytest.fixture
 def client():
